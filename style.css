@@ -1,0 +1,201 @@
+
+body {
+background: rgb(105,206,255);
+  background: linear-gradient(90deg, rgba(105,206,255,1) 0%, rgba(223,118,144,1) 100%);
+  
+}
+
+#imageContainer {
+  margin: auto;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+#imageContainer {
+  margin: 90px auto 20px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+#header {
+  text-align: center;
+  color: #000000;
+  font-family: "Climate Crisis", sans-serif;
+  letter-spacing: 3px;
+  font-size: 60px;
+}
+
+
+
+#imageContainer {
+  margin: 90px auto 20px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+#header {
+  text-align: center;
+  color: #000000;
+  font-family: "Climate Crisis", sans-serif;
+  letter-spacing: 3px;
+  font-size: 60px;
+}
+.fa-video{
+  color: #000000;
+  font-size: 50px;
+}
+#imageContainer {
+  margin: 90px auto 20px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+#header {
+  text-align: center;
+  color: #000000;
+  font-family: "Climate Crisis", sans-serif;
+  letter-spacing: 3px;
+  font-size: 60px;
+}
+.fa-video{
+  color: #000000;
+  font-size: 50px;
+}
+#imageContainer {
+  margin: 90px auto 20px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+#header {
+  text-align: center;
+  color: #000000;
+  font-family: "Climate Crisis", sans-serif;
+  letter-spacing: 3px;
+  font-size: 60px;
+}
+.fa-video{
+  color: #000000;
+  font-size: 50px;
+}
+#imageContainer {
+  margin: 90px auto 20px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+#header {
+  text-align: center;
+  color: #000000;
+  font-family: "Climate Crisis", sans-serif;
+  letter-spacing: 3px;
+  font-size: 60px;
+}
+.fa-video{
+  color: #000000;
+  font-size: 50px;
+}
+#imageContainer {
+  margin: 90px auto 20px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+#searchForm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+#searchForm input[type="text"] {
+  flex-grow: 1;
+  height: 30px;
+  font-size: 1.2em;
+  padding: 5px;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  box-shadow: none;
+}
+
+#searchButton, #clearButton {
+  width: 50px;
+  border: none;
+  background-color: transparent;
+  color: #000;
+  font-size: 1.2em;
+  transition-duration: 0.8s;
+  transition-timing-function: ease-in-out;
+}
+
+#searchButton:hover {
+  cursor: pointer;
+}
+
+#clearButton:hover {
+  cursor: pointer;
+}
+.search-wrapper {
+  display: flex;
+  align-items: center;
+  position: relative;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 100px;
+  background-color: #fff;
+  box-shadow: 0 0 5px rgba(0, 0, 3, 3.3);
+}
+.grid-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 300px;
+  height: 450px;
+  margin: 10px;
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 50, 20, 10);
+}
+
+.card img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+
+.card p {
+  font-size: 20px;
+  margin: 0;
+  text-align: bottom;
+  margin: 10px;
+  letter-spacing: 1px;
+  line-height: 1;
+}
